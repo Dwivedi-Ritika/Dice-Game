@@ -12,11 +12,8 @@ Dice-Mania is a game platform built using the MERN stack. It offers users to sel
 - **Ritika Dwivedi**
   - Roll Number: 22015002797
 - **Kirti Shukla**
-  - Roll Number: 22015002566
+  - Roll Number: 22015002652
 
-## Features
-
--
 
 ## Technology Stack
 
@@ -37,7 +34,7 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/Dwivedi-Ritika/Dice-Game.git
    cd homeheaven
-   git clone https://github.com/Deepanshishukla24/HOMEHEAVEN.git
+   git clone https://github.com/Kirti-Shukla/dice_games.git
    ```
 
 ### Running the Application
